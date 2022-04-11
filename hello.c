@@ -10,7 +10,7 @@ int my_strlen(char *s)
 
     return (p - s);
 }
-
+/* This is a new line */
 int main(void)
 {
      int i;
